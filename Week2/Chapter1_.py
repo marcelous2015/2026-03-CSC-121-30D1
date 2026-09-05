@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNjvZKRJcTWaV2fHLaPApUE",
+      "authorship_tag": "ABX9TyNETi01iz/PwO0Cja2DhPhU",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -44,6 +44,31 @@
         "# 1. Print the total minutes in a movie (2 * 60 + 45).\n",
         "# 2. Print the years since 1947 (2026 - 1947).\n",
         "# 3. Print the total cost of 7 books (7 * 35)."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(2 * 60 + 45)\n",
+        "print(2026 - 1947)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "zQLwfyU_58pA",
+        "outputId": "5f41db72-6e89-4bff-e41e-4922ddb49cc6"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "165\n",
+            "79\n"
+          ]
+        }
       ]
     }
   ]

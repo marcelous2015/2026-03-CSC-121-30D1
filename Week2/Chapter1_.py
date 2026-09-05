@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNETi01iz/PwO0Cja2DhPhU",
+      "authorship_tag": "ABX9TyPb61arP4HjqglnVhkr8Lp4",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -67,6 +67,33 @@
           "text": [
             "165\n",
             "79\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Total minutes in movie:\", 2 * 60 + 45)\n",
+        "print(\"Years since first bug:\", 2026 - 1947)\n",
+        "print(\"Total cost of books:\", 7 * 35)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "nCLp6YUq6Psj",
+        "outputId": "cf7b1ed9-ab31-462b-c96b-c3adf92a4ca5"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Total minutes in movie: 165\n",
+            "Years since first bug: 79\n",
+            "Total cost of books: 245\n"
           ]
         }
       ]
